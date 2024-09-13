@@ -11,3 +11,4 @@ console.log(`result_subt = ${result_subtract}`)
 const result_divide = calc.divide(6, 2);
 console.log(`result_divide = ${result_divide}`)
 
+console.log('done.')
